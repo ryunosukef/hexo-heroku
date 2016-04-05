@@ -1,1 +1,1 @@
-web: hexo server -s
+web: hexo server -s -p 3000
