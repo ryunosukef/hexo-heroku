@@ -1,1 +1,1 @@
-web: hexo server -p 3000
+web: hexo server -p $PORT
